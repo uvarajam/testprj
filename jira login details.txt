@@ -1,0 +1,9 @@
+Login details
+
+username = uvamca82@gmail.com
+Passowrd = Nov@09051982
+
+JIRA login details
+
+Username = uvamca82
+Password = uvamca82
